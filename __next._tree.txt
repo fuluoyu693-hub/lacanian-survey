@@ -1,0 +1,5 @@
+:HL["/lacanian-survey/_next/static/media/78d0dd042ac6d54d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/lacanian-survey/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/lacanian-survey/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/lacanian-survey/_next/static/css/2ef5ea3747f95e3b.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"j1vETC8vIP8kQofuXubJ4"}
